@@ -1,5 +1,5 @@
 {
-  "name": "ricardoruwer dark color scheme",
+  "name": "ricardoruwer dark (high contrast) color scheme",
   "globals":
   {
     "background": "#1A202C",
@@ -46,6 +46,10 @@
       "foreground": "#38B2AC"
     },
     {
+      "scope": "punctuation.definition.heading",
+      "foreground": "#FBB6CE"
+    },
+    {
       "scope": "punctuation.definition.comment",
       "foreground": "#718096"
     },
@@ -80,6 +84,10 @@
     {
       "scope": "constant",
       "foreground": "#C6F6D5"
+    },
+    {
+      "scope": "constant.other.language-name",
+      "foreground": "#4FD1C5"
     },
     {
       "scope": "constant.other.keywords",
@@ -201,6 +209,10 @@
     {
       "scope": "meta.group.braces.curly",
       "foreground": "#9AE6B4"
+    },
+    {
+      "scope": "meta.link.inline.description",
+      "foreground": "#C6F6D5"
     },
     {
       "scope": "meta.function-call, meta.block-level",
