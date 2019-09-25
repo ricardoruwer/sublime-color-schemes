@@ -140,18 +140,17 @@
       "scope": "meta.diff, meta.diff.header",
       "foreground": "#75715e"
     },
-    // Diff
+    // Diff/Markup
     {
-      "scope": "diff.deleted",
+      "scope": "diff.deleted, markup.error",
       "foreground": "#f92672"
     },
     {
-      "scope": "diff.inserted",
+      "scope": "diff.inserted, markup.inserted",
       "foreground": "#6e9918"
     },
-    //
     {
-      "scope": "markup.changed",
+      "scope": "markup.changed, markup.warning",
       "foreground": "#ab9b0d"
     }
   ]
