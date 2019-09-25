@@ -8,6 +8,8 @@ This is my personal SublimeText color schemes - feel free to download and edit a
 "color_scheme": "Packages/User/Color Schemes/ricardoruwer-light.sublime-color-scheme",
 // or...
 "color_scheme": "Packages/User/Color Schemes/ricardoruwer-dark.sublime-color-scheme",
+// or...
+"color_scheme": "Packages/User/Color Schemes/ricardoruwer-dark-high-contrast.sublime-color-scheme",
 ```
 
 ## Inspirations
