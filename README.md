@@ -1,5 +1,6 @@
 # Sublime Color Schemes
 This is my personal SublimeText color schemes - feel free to download and edit as you want.
+![](http://updemia.com/static/g/j/xl/5d9bac51695fd.png)
 
 ## Installation
 - Move the file to `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Color\ Schemes/`
